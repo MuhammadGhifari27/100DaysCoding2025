@@ -13,8 +13,8 @@ public class Day5 {
         //Rentang Nilai:-2.1 miliar hingga 2.1 miliar
         int HargaMobil = 350000000;
         //4.long
-        //Ukuran:
-        //Rentang Nilai:
+        //Ukuran:64-bit
+        //Rentang Nilai:sangat besar lebih dari 9 kuintiliun 
         long populasiDunia = 8100000000L;
         
         System.out.println("Umur :"+ umur +"(Hemat memori untuk angka Kecil)");

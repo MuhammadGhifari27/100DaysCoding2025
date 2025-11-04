@@ -5,7 +5,7 @@ public class Day58 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Masukkan N: ");
+        System.out.print("Masukkann N: ");
         int N = input.nextInt();
 
         for (int i = 1; i <= N; i++) {
